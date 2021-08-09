@@ -6,3 +6,5 @@
 
 print("My favorite ice cream is sandwich")
 printf("My favorite ice cream is sandwich");  # C code mistake
+
+# added comment
